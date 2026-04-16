@@ -1,0 +1,16 @@
+fastmcp
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-ollama
+langchain-redis
+langchain-text-splitters
+python-dotenv
+pandas
+plotly
+redis
+requests
+sentence-transformers
+google-search-results
+streamlit
+wikipedia
